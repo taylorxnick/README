@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taylorxnick
+- 👋 Hi, I’m Nick Taylor
 - 🌱 I’m currently studying at Colorado School of Mines as an MS student in the Mechanical Engineering department and getting a graduate certificate in Space Resources
       - Current Course List (as of Spring 2024): Partial Differential Equations, FEA, Mechatronics and Robot Kinematics/Dynamics, Neural Network Robot Controls, Space Resources and Special Topics in Advanced Dynamics
 - ⚡ I studied Aerospace Engineering at University of Colorado Boulder for my undergraduate degree
